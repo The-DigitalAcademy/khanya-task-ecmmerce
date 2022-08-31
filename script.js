@@ -3,66 +3,66 @@ var productsState = [
   {
     id: 1,
     name: 'Macbook Pro',
-    price: 28000,
-    rates: 5,
+    price: 15999.00,
+    rates: 12,
     image:
-      'https://www.istore.co.za/media/catalog/product/m/a/macbook_pro_space_grey-1_2.png?format=jpeg',
+      'https://www.istore.co.za/media/catalog/product/i/p/iphone12_purple_pdp_image_2__wwen.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700',
   },
   {
     id: 2,
     name: 'Iphone 13 Pro',
-    price: 23000,
-    rates: 3,
+    price: 14999,
+    rates: 12,
     image:
-      'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80',
+      'https://www.applecafe.co.za/wp-content/uploads/2021/07/IPHONE-12-.jpg',
   },
   {
     id: 1,
     name: 'Iphone 6 C',
-    price: 7000,
-    rates: 2,
+    price: 6000,
+    rates: 7,
     image:
-      'https://images.unsplash.com/photo-1565849904461-04a58ad377e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80',
+      'https://www.applecafe.co.za/wp-content/uploads/2021/07/7-PLUS-ALL-COLORS-2-300x300.jpg',
   },
   {
     id: 1,
-    name: 'HP Laptop',
-    price: 8000,
+    name: 'mfp Laptop',
+    price: 23747,
     rates: 1,
     image:
-      'https://images.unsplash.com/photo-1589561084283-930aa7b1ce50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80',
+      'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfEYshY2fi-d28CGkcSRKpihAit__qoqjFZ7ZhyrW-ZVlpQo_kcLtN6a9XLyN8eZKlgfE1x8x4nye6XN0rgwNNku9Gj6yVe9krDAnk4D2G&usqp=CAE',
   },
   {
     id: 1,
-    name: 'Dell Laptop',
-    price: 4000,
+    name: 'epicdeals Laptop',
+    price: 12399,
     rates: 1,
     image:
-      'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
+      'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSpBgfbB9a0UGh5bQ-DQx3nW6jgvUIP3-fhoY0L4ZornN_n3ElgWXWXk0lW0XUpf788W6cHmsLcETbRatwbkK1Ja2c2ZB6XPsDYVwuSMx0F1E6oMYLd8mlZ&usqp=CAE',
   },
   {
     id: 1,
-    name: 'Macbook Pro',
-    price: 15000,
+    name: 'samsung a23',
+    price: 3699,
     rates: 5,
     image:
-      'https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
+      'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR7APzcS07t884wGyj_4PRjTd3EDGGyJ_EZkvaog5tm_Tb3SsqQitqgArADg7SDpwGD3xAPG6iDMNbc2LIN0GJcr6B5sEJljt_qVWMfyk9KB50M9dNKutHoIA&usqp=CAE',
   },
   {
     id: 1,
-    name: 'Playstation 5',
-    price: 20000,
+    name: 'samaung s22',
+    price: 26999,
     rates: 4,
     image:
-      'https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
+      'https://images.samsung.com/za/smartphones/galaxy-s22-ultra/images/galaxy-s22-ultra_highlights_kv_img.jpg',
   },
   {
     id: 1,
     name: 'PS 4 Joystick',
-    price: 1200,
+    price: 4599,
     rates: 3,
     image:
-      'https://images.unsplash.com/photo-1592840496694-26d035b52b48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=825&q=80',
+      'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIDekTTfEwiruLH2iartoLeLdlzteoa-Tz1u2VtjzUR4xMsH4CLJANbK-iNXjv5gqnTZ45PY3SlrPJR2YlucaDAuRYRkwYri_-vNpM3_iMc7BQCy0oxYB3wg&usqp=CAE',
   },
 ]
 
@@ -71,6 +71,7 @@ const products = document.getElementById('products');
 const spho = document.getElementById('spho')
 
 let numberCount = 0;
+
 
 function addAmanda() {
 
