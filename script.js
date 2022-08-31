@@ -73,7 +73,7 @@ const spho = document.getElementById('spho')
 let numberCount = 0;
 
 function addAmanda() {
-  spho = document.getElementById('spho').innerHTML = ++ numberCount;
+
 }
 
 
